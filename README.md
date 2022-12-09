@@ -2,5 +2,4 @@
 
 Mobile App on Expo with React Native (IOS/Android) that show live local meteo
 
-  <img width="242" alt="image" src="https://user-images.githubusercontent.com/116329812/206799741-e7e0a173-720c-4d03-b3d9-9bc3cecab4fa.png">  
-
+ <img width="203" alt="image" src="https://user-images.githubusercontent.com/116329812/206802315-5f7e9c6e-87c1-4d1c-b0ba-34fd683626a3.png">
